@@ -22,6 +22,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 // Rute untuk menampilkan daftar franchise (bisa diakses oleh semua pengguna)
 Route::get('franchise', [FranchiseController::class, 'index']);
+Route::get('franchise/{id}', [FranchiseController::class, 'show']);
 
 // Grup middleware untuk melindungi operasi CRUD franchise, hanya bisa diakses oleh admin
 Route::middleware(['auth:api', 'admin'])->group(function () {
