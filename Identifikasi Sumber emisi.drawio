@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="15K_R9oEgSRI3HWhUWzp">
-    <mxGraphModel dx="1174" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,6 +289,33 @@
         </mxCell>
         <mxCell id="pN1ha48DnsAZ2XiTqm2N-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Produk Final:&lt;div&gt;Bubuk kering&lt;/div&gt;&lt;div&gt;(500 kg/jam)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="580" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="pN1ha48DnsAZ2XiTqm2N-109" edge="1" parent="1" source="pN1ha48DnsAZ2XiTqm2N-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="pN1ha48DnsAZ2XiTqm2N-113" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pN1ha48DnsAZ2XiTqm2N-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Panas (superheated heat)&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;secara indirect dari proses boiler&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;13,39 GJ/hari&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="1170" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="pN1ha48DnsAZ2XiTqm2N-112" edge="1" parent="1" source="pN1ha48DnsAZ2XiTqm2N-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="pN1ha48DnsAZ2XiTqm2N-119" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pN1ha48DnsAZ2XiTqm2N-132" edge="1" parent="1" source="pN1ha48DnsAZ2XiTqm2N-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="pN1ha48DnsAZ2XiTqm2N-131" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pN1ha48DnsAZ2XiTqm2N-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="GENSET&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1170" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="pN1ha48DnsAZ2XiTqm2N-114" edge="1" parent="1" source="pN1ha48DnsAZ2XiTqm2N-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="pN1ha48DnsAZ2XiTqm2N-113" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pN1ha48DnsAZ2XiTqm2N-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Bahan Balar Solar&lt;div&gt;C: 804 kg/jam&lt;/div&gt;&lt;div&gt;H: 127 kg/jam&lt;/div&gt;&lt;div&gt;N: 0,09 kg/jam&lt;/div&gt;&lt;div&gt;S: 0,4 kg/jam&lt;/div&gt;&lt;div&gt;O: 3,1 kg/jam&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="140" x="990" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="pN1ha48DnsAZ2XiTqm2N-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Output Utama:&lt;div&gt;Listrik&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1320" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="pN1ha48DnsAZ2XiTqm2N-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Gas Buang (kg/jam):&lt;div&gt;CO2: 2.943&lt;/div&gt;&lt;div&gt;N2: 11.429&lt;/div&gt;&lt;div&gt;H2O: 1.144&lt;/div&gt;&lt;div&gt;SO2: 0,92&lt;/div&gt;&lt;div&gt;NO: 0,19&lt;/div&gt;&lt;div&gt;CO: 1,39&lt;/div&gt;&lt;div&gt;PM: 1,09&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="120" x="1170" y="1930" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
