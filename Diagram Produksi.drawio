@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="1i1NFhui-ZG6Nr9cxNpv">
-    <mxGraphModel dx="3096" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="553" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,8 +432,10 @@
         <mxCell id="bXzCiksRuIVwCeTI8vcQ-182" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Cabai: 36 ton/hari&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="1830" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="bXzCiksRuIVwCeTI8vcQ-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tomat&lt;div&gt;(1,2 ton/hari)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1830" y="880" as="geometry" />
+        <mxCell id="eWf5E-hdzPtchkaphTyC-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eWf5E-hdzPtchkaphTyC-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1950" y="950" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bXzCiksRuIVwCeTI8vcQ-184" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Garam" vertex="1">
           <mxGeometry height="60" width="120" x="2760" y="310" as="geometry" />
@@ -777,7 +779,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bXzCiksRuIVwCeTI8vcQ-330" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kedelai&lt;div&gt;(1,6 ton/hari)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1830" y="970" as="geometry" />
+          <mxGeometry height="60" width="120" x="1830" y="920" as="geometry" />
         </mxCell>
         <mxCell id="bXzCiksRuIVwCeTI8vcQ-331" edge="1" parent="1" source="bXzCiksRuIVwCeTI8vcQ-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#5194d2, #ededed);strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="bXzCiksRuIVwCeTI8vcQ-311" value="">
           <mxGeometry relative="1" as="geometry">
@@ -827,15 +829,14 @@
         <mxCell id="bXzCiksRuIVwCeTI8vcQ-341" edge="1" parent="1" source="bXzCiksRuIVwCeTI8vcQ-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bXzCiksRuIVwCeTI8vcQ-342" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2255.02" y="870.02" />
-              <mxPoint x="2255.02" y="885" />
+              <mxPoint x="2260" y="885" />
             </Array>
             <mxPoint x="2255" y="870" as="sourcePoint" />
             <mxPoint x="2315" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXzCiksRuIVwCeTI8vcQ-342" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1,2&amp;nbsp; cabai Terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="2315" y="870" as="geometry" />
+        <mxCell id="bXzCiksRuIVwCeTI8vcQ-342" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1,2&amp;nbsp; ton/hari&amp;nbsp; &amp;nbsp;cabai Terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="140" x="2340" y="880" as="geometry" />
         </mxCell>
         <mxCell id="bXzCiksRuIVwCeTI8vcQ-348" edge="1" parent="1" source="bXzCiksRuIVwCeTI8vcQ-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="bXzCiksRuIVwCeTI8vcQ-347" value="">
           <mxGeometry relative="1" as="geometry">
@@ -877,6 +878,15 @@
         </mxCell>
         <mxCell id="bXzCiksRuIVwCeTI8vcQ-359" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Penyaringan" vertex="1">
           <mxGeometry height="80" width="120" x="3600" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="eWf5E-hdzPtchkaphTyC-3" edge="1" parent="1" source="eWf5E-hdzPtchkaphTyC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eWf5E-hdzPtchkaphTyC-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWf5E-hdzPtchkaphTyC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pencucian&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Cabai: 36 ton/hari&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- air&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&amp;nbsp;&lt;/span&gt;&amp;nbsp; : 86,4m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2030" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="eWf5E-hdzPtchkaphTyC-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pembuangan Biji" vertex="1">
+          <mxGeometry height="80" width="120" x="2250" y="910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
