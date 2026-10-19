@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="JFPA5Aq9rixcpr5LOx87">
+    <mxGraphModel dx="3365" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Listrik PLN: 197 kVA" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Penggunaan Energi Eksisting" vertex="1">
+          <mxGeometry height="30" width="150" x="435" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Listrik PLN: 197 kVA" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Penggunaan Energi Rencana" vertex="1">
+          <mxGeometry height="30" width="150" x="765" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Boiler BIomassa Utama" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Genset Solar" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LPG" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Utama" vertex="1">
+          <mxGeometry height="60" width="120" x="1190" y="1305" as="geometry" />
+        </mxCell>
+        <mxCell id="15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Satus" vertex="1">
+          <mxGeometry height="30" width="150" x="1115" y="1275" as="geometry" />
+        </mxCell>
+        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#4400ff, #efc0ff);fontColor=#ffffff;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="1305" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cadangan" vertex="1">
+          <mxGeometry height="60" width="120" x="1190" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6FD658;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="19" edge="1" parent="1" source="20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tepung Jagung&lt;div&gt;(56,03 ton/hari&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="21" edge="1" parent="1" source="22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tepung Beras&lt;div&gt;(27,1 ton/hari&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tepung Sagu&lt;div&gt;(27,1 ton/hari&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="131" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="24" edge="1" parent="1" source="25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" target="126" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Cabai: 36 ton/hari&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="144" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="920" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" edge="1" parent="1" source="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#66FF66;" target="126">
+          <mxGeometry relative="1" x="-0.5736" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1110" />
+              <mxPoint x="280" y="833.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" edge="1" parent="1" source="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#66FF66;" target="168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1110" />
+              <mxPoint x="280" y="1195" />
+            </Array>
+            <mxPoint x="290" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" edge="1" parent="1" source="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#66FF66;" target="102">
+          <mxGeometry relative="1" x="0.0323" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1110" />
+              <mxPoint x="280" y="725" />
+            </Array>
+            <mxPoint x="310" y="919.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Garam" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="31" edge="1" parent="1" source="33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFD966;" target="159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32" edge="1" parent="1" source="33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFD966;" target="126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MSG&lt;div&gt;3 ton/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="34" edge="1" parent="1" source="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#5194d2, #ededed);strokeWidth=2;" target="37" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="629.9999999999995" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#5194d2, #ededed);strokeWidth=2;" value="Air" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="36" edge="1" parent="1" source="37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="42" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Mixing&lt;div&gt;(adonan):&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Tepung Jagung :56 ton/hari&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Air&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:42,8 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Garam&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :0,56 ton/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tepung Semolina&lt;div&gt;(18,1 ton/hari)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="39" edge="1" parent="1" source="40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Mixing&lt;div&gt;(adonan):&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;- Tepung Beras&amp;nbsp; &amp;nbsp;:27,1 ton/hari&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Air&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;: 21,4 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;&lt;div&gt;- Garam&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 0,41 ton/hari&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="41" edge="1" parent="1" source="42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Pencetakan&amp;nbsp;&lt;div&gt;(Extruder)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="33,6 m&lt;sup&gt;3&lt;/sup&gt;/hari air" vertex="1">
+          <mxGeometry height="30" width="95" x="435" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="44" edge="1" parent="1" source="45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pengkukusan (Steaming)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Adonan :99,4 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Steam : 72,5 ton/hari&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="46" edge="1" parent="1" source="47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pendinginan&lt;div&gt;(conveyor)&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="48" edge="1" parent="1" source="49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Pemotongan" vertex="1">
+          <mxGeometry height="60" width="120" x="1130" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="830" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="630" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="1040" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="53" edge="1" parent="1" source="54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="55" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="385" />
+            </Array>
+            <mxPoint x="1460" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Pengeringan (oven)" vertex="1">
+          <mxGeometry height="60" width="120" x="1330" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;86,2 m&lt;sup style=&quot;&quot;&gt;3&lt;/sup&gt;/hari Air Menguap&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1460" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="56" edge="1" parent="1" source="54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="57" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="442" as="sourcePoint" />
+            <mxPoint x="1500" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bihun Jagung&lt;div&gt;85,7 ton/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1500" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="58" edge="1" parent="1" source="49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="59" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="475" />
+            </Array>
+            <mxPoint x="1420" y="490" as="sourcePoint" />
+            <mxPoint x="1250" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;0,06 ton/hari adonan terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1250" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="60" edge="1" parent="1" source="61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Pencetakan&amp;nbsp;&lt;div&gt;(Extruder)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="62" edge="1" parent="1" source="63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="65" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pengkukusan (Steaming)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Adonan :48,8 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Steam : 35 ton/hari&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="64" edge="1" parent="1" source="65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="67" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pendinginan&lt;div&gt;(conveyor)&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="66" edge="1" parent="1" source="67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="72" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Pemotongan" vertex="1">
+          <mxGeometry height="60" width="120" x="1130" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="830" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="630" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="1040" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="71" edge="1" parent="1" source="72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="73" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="475" />
+            </Array>
+            <mxPoint x="1460" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Pengeringan (oven)" vertex="1">
+          <mxGeometry height="60" width="120" x="1330" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;41,3 m&lt;sup style=&quot;&quot;&gt;3&lt;/sup&gt;/hari Air Menguap&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1460" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="74" edge="1" parent="1" source="72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="75" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="532" as="sourcePoint" />
+            <mxPoint x="1500" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bihun Instan&lt;div&gt;42,8 ton/tahun&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1500" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="76" edge="1" parent="1" source="67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="77" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="565" />
+            </Array>
+            <mxPoint x="1420" y="580" as="sourcePoint" />
+            <mxPoint x="1250" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;0,03 ton/hari adonan terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1250" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="78" edge="1" parent="1" source="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#5194d2, #ededed);strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="40" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="360" as="sourcePoint" />
+            <mxPoint x="410" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79" edge="1" parent="1" source="80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Mixing&lt;div&gt;(adonan):&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;- Tepung Sagu&amp;nbsp; &amp;nbsp; &amp;nbsp;:27,1 ton/hari&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Air&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;: 21,4 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;&lt;div&gt;- Garam&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 0,41 ton/hari&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="81" edge="1" parent="1" source="82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Pencetakan&amp;nbsp;&lt;div&gt;(Extruder)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="83" edge="1" parent="1" source="84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="86" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pengkukusan (Steaming)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Adonan :48,8 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Steam : 35 ton/hari&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="85" edge="1" parent="1" source="86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="88" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pendinginan&lt;div&gt;(conveyor)&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="87" edge="1" parent="1" source="88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="93" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Pemotongan" vertex="1">
+          <mxGeometry height="60" width="120" x="1130" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="830" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="630" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="1040" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="92" edge="1" parent="1" source="93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="570" />
+            </Array>
+            <mxPoint x="1460" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Pengeringan (oven)" vertex="1">
+          <mxGeometry height="60" width="120" x="1330" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="94" edge="1" parent="1" source="93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="95" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="627" as="sourcePoint" />
+            <mxPoint x="1500" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Soun&lt;div&gt;42,8 ton/tahun&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1500" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="96" edge="1" parent="1" source="88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="97" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="660" />
+            </Array>
+            <mxPoint x="1420" y="675" as="sourcePoint" />
+            <mxPoint x="1250" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;0,03 ton/hari adonan terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1250" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="98" edge="1" parent="1" source="23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="609.5" as="sourcePoint" />
+            <mxPoint x="330" y="609.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99" edge="1" parent="1" source="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#5194d2, #ededed);strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="80" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310.03" y="310" />
+              <mxPoint x="310.03" y="595" />
+            </Array>
+            <mxPoint x="680" y="360" as="sourcePoint" />
+            <mxPoint x="300" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;41,3 m&lt;sup style=&quot;&quot;&gt;3&lt;/sup&gt;/hari Air Menguap&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1460" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="101" edge="1" parent="1" source="102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="104" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Mixing&lt;div&gt;(adonan):&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;- Tepung&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :18,1 ton/hari&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Air&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;: 9,5 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;&lt;div&gt;- Garam&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 0,27 ton/hari&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="103" edge="1" parent="1" source="104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="106" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Pencetakan&amp;nbsp;&lt;div&gt;(Extruder)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="105" edge="1" parent="1" source="106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="108" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pengkukusan (Steaming)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Adonan :27,8 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Steam : 23,4 ton/hari&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="107" edge="1" parent="1" source="108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="110" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pendinginan&lt;div&gt;(conveyor)&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="109" edge="1" parent="1" source="110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="115" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Pemotongan" vertex="1">
+          <mxGeometry height="60" width="120" x="1130" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="830" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="630" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Conveyor&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="1040" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="114" edge="1" parent="1" source="115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="660" />
+            </Array>
+            <mxPoint x="1460" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Pengeringan (oven)" vertex="1">
+          <mxGeometry height="60" width="120" x="1330" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="116" edge="1" parent="1" source="115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="117" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="717" as="sourcePoint" />
+            <mxPoint x="1500" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Makaroni&lt;div&gt;28,5 ton/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1500" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="118" edge="1" parent="1" source="110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="119" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="750" />
+            </Array>
+            <mxPoint x="1420" y="765" as="sourcePoint" />
+            <mxPoint x="1250" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;0,9 ton/hari adonan terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1250" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="120" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251" y="700" as="sourcePoint" />
+            <mxPoint x="330" y="699.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kedelai&lt;div&gt;(1,6 ton/hari)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="122" edge="1" parent="1" source="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#5194d2, #ededed);strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="102" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699.9700000000003" y="560" as="sourcePoint" />
+            <mxPoint x="319.97" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;21,4&amp;nbsp; m&lt;sup style=&quot;&quot;&gt;3&lt;/sup&gt;/hari Air Menguap&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="130" x="1460" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="124" edge="1" parent="1" source="126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="131" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="125" edge="1" parent="1" source="126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="870" />
+              <mxPoint x="410" y="870" />
+            </Array>
+            <mxPoint x="370" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px;&quot;&gt;- &lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px;&quot;&gt;Cabai&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 36 ton/hari&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Tomat&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :1,2 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Pengental&amp;nbsp; : 0,1 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- MSG&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 0,375 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- air&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&amp;nbsp;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 86 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- bawang&amp;nbsp; &amp;nbsp; &amp;nbsp; : 1,3 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="98" width="180" x="330" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="127" edge="1" parent="1" source="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#5194d2, #ededed);strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="126" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="700" as="sourcePoint" />
+            <mxPoint x="360" y="1075" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#c52626, #ededed);strokeWidth=3;" value="Tomat&lt;div&gt;1,2 ton/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1215" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="129" edge="1" parent="1" source="128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#C92626,#EDEDED);strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="135" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1275" y="360.06" />
+              <mxPoint x="300.05999999999995" y="360.06" />
+              <mxPoint x="300.05999999999995" y="750.06" />
+              <mxPoint x="700" y="750" />
+              <mxPoint x="960.06" y="750.06" />
+            </Array>
+            <mxPoint x="1030" y="310" as="sourcePoint" />
+            <mxPoint x="650" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="130" edge="1" parent="1" source="131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="135" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pembuangan Biji" vertex="1">
+          <mxGeometry height="80" width="120" x="540" y="769" as="geometry" />
+        </mxCell>
+        <mxCell id="132" edge="1" parent="1" source="131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="133" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="860" />
+              <mxPoint x="640" y="860" />
+            </Array>
+            <mxPoint x="555" y="840" as="sourcePoint" />
+            <mxPoint x="615" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;91,5&amp;nbsp; ton/hari&amp;nbsp; &amp;nbsp;campuran Terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="170" x="640" y="854" as="geometry" />
+        </mxCell>
+        <mxCell id="134" edge="1" parent="1" source="135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="138" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="795" as="sourcePoint" />
+            <mxPoint x="930" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="135" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Penggilingan&lt;div&gt;- Cabai: 35,7 ton/hari&lt;/div&gt;&lt;div&gt;- Tomat: 1,2 ton/hari&lt;/div&gt;&lt;div&gt;-Bawang :4 ton/hari&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="760" y="769" as="geometry" />
+        </mxCell>
+        <mxCell id="136" edge="1" parent="1" source="138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="141" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="137" edge="1" parent="1" source="138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="169">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="972.5" y="860" />
+              <mxPoint x="990" y="860" />
+              <mxPoint x="990" y="859" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;Blaching&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-Pasta&amp;nbsp; saus&amp;nbsp; :33,3&amp;nbsp; ton /hari&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Air&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 96 m&lt;sup style=&quot;&quot;&gt;3&lt;/sup&gt;/hari&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="940" y="769" as="geometry" />
+        </mxCell>
+        <mxCell id="139" edge="1" parent="1" source="141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="183" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="809" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="140" edge="1" parent="1" source="141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="149">
+          <mxGeometry relative="1" x="0.0062" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="865" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="Pemasakan Akhir&lt;div&gt;- 113 ton/hari saus&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1180" y="769" as="geometry" />
+        </mxCell>
+        <mxCell id="142" edge="1" parent="1" source="186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="147" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="143" connectable="0" parent="142" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="air menyerap" vertex="1">
+          <mxGeometry relative="1" x="-0.5246" as="geometry">
+            <mxPoint x="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pencucian&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Kedelai: 12,8 ton/hari&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- air&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&amp;nbsp;&lt;/span&gt;&amp;nbsp; : 4,8m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="330" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="145" edge="1" parent="1" source="147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="146" edge="1" parent="1" source="147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="975" />
+            </Array>
+            <mxPoint x="580" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#990000;fontColor=#FFFFFF;" value="Perebusan&lt;div&gt;-Kedelai: 23,04 ton/hari&lt;/div&gt;&lt;div&gt;-air: 20 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="830" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;86&amp;nbsp; m&lt;sup&gt;3&lt;/sup&gt;/hari&amp;nbsp; &amp;nbsp;air terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="140" x="410" y="864" as="geometry" />
+        </mxCell>
+        <mxCell id="149" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;16,9 m&lt;sup&gt;3&lt;/sup&gt;/hari air terbuang &amp;amp; menguap&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1300" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="150" edge="1" parent="1" source="189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="153" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="151" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Fermentasi&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- kedelai : 20,7 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Garam : 0,7 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Air : 18 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1020" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="152" edge="1" parent="1" source="153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="178" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#990000;strokeColor=#d6b656;fontColor=light-dark(#ffffff, #ededed);" value="Mixing/pematangan:&lt;div&gt;- Kecap: 19,4&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;- Air: 12,6 m&lt;/span&gt;&lt;sup style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;3&lt;/sup&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;/hari air&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1340" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="saus&lt;div&gt;96 ton/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="1500" y="774" as="geometry" />
+        </mxCell>
+        <mxCell id="155" edge="1" parent="1" source="157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="156" edge="1" parent="1" source="157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bawang&lt;div&gt;(49,6 ton/hari)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="131" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="158" edge="1" parent="1" source="159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="161" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Mixing&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- MSG&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 2,6&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;ton/hari&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Garam&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;: 2,6 ton/hari&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- bawang putih&amp;nbsp; &amp;nbsp; : 1,05 ton/hari&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- bawang merah&amp;nbsp; : 4,2 ton/hari&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="161" x="330" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="160" edge="1" parent="1" source="161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="162" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Flash Drying&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="550" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="162" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;Bumbu kering&lt;/div&gt;&lt;div&gt;10,5 ton/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="770" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="163" edge="1" parent="1" source="165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=light-dark(#5194d2, #ededed);" target="159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="1270" />
+              <mxPoint x="300" y="1067.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="164" edge="1" parent="1" source="165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=light-dark(#5194d2, #ededed);" target="144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="1255" />
+              <mxPoint x="300" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="165" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#5194d2, #ededed);strokeWidth=2;" value="Air" vertex="1">
+          <mxGeometry height="60" width="120" x="131" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="166" edge="1" parent="1" source="168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="167" edge="1" parent="1" source="168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="193">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1255.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="168" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;text-align: center;&quot;&gt;Pencucian&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Air &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;: 22,4&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ton/hari&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- bawang&amp;nbsp; &amp;nbsp; &amp;nbsp; : 42 ton/hari&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="330" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;16,1 m&lt;sup&gt;3&lt;/sup&gt;/hari air terbuang&amp;nbsp;&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1020" y="844" as="geometry" />
+        </mxCell>
+        <mxCell id="170" edge="1" parent="1" source="172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="175" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="171" connectable="0" parent="170" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="bawang menyusut" vertex="1">
+          <mxGeometry relative="1" x="-0.2642" y="1" as="geometry">
+            <mxPoint x="18" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#990000;fontColor=#FFFFFF;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Penggorengan&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- mix bawang: 34,5 ton/hari&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- Minyak: 5.8 ton/hari&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="550" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="173" edge="1" parent="1" source="175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="176" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="174" connectable="0" parent="173" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="penyusutan" vertex="1">
+          <mxGeometry relative="1" x="-0.3136" y="-2" as="geometry">
+            <mxPoint x="6" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="175" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Pendinginan&lt;div&gt;- Bawang goreng: 13,6 ton/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="795" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="176" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bawang goreng&lt;div&gt;10,5 ton/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1030" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="177" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4,3&amp;nbsp; m&lt;sup&gt;3&lt;/sup&gt;/hari&amp;nbsp; &amp;nbsp;air Terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="140" x="900" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="178" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kecap&lt;div&gt;32 ton/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1500" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="179" edge="1" parent="1" source="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#66FF66;" target="80">
+          <mxGeometry relative="1" x="0.027" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1110" />
+              <mxPoint x="280" y="635" />
+            </Array>
+            <mxPoint x="280" y="1110" as="sourcePoint" />
+            <mxPoint x="360" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="180" edge="1" parent="1" source="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#66FF66;" target="40">
+          <mxGeometry relative="1" x="-0.0302" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1110" />
+              <mxPoint x="280" y="540" />
+            </Array>
+            <mxPoint x="270" y="1120" as="sourcePoint" />
+            <mxPoint x="350" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="181" edge="1" parent="1" source="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#66FF66;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1110" />
+              <mxPoint x="280" y="450" />
+            </Array>
+            <mxPoint x="280" y="1110" as="sourcePoint" />
+            <mxPoint x="320" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="182" edge="1" parent="1" source="183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pengemasan" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="779" as="geometry" />
+        </mxCell>
+        <mxCell id="184" edge="1" parent="1" source="144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="186" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="920" as="sourcePoint" />
+            <mxPoint x="760" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="185" connectable="0" parent="184" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="air menyerap" vertex="1">
+          <mxGeometry relative="1" x="-0.2609" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="186" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Perendaman&lt;div&gt;Kedelai : 17,9 ton/hari&lt;/div&gt;&lt;div&gt;Air&amp;nbsp; &amp;nbsp; &amp;nbsp; :3,2 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="610" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="187" edge="1" parent="1" source="151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="189" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="920" as="sourcePoint" />
+            <mxPoint x="1340" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="188" edge="1" parent="1" source="189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="190">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="972.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="189" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Ekstraksi&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1180" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;7,4&amp;nbsp; m&lt;sup&gt;3&lt;/sup&gt;/hari&amp;nbsp; &amp;nbsp;air Terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="140" x="1205" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="191" edge="1" parent="1" source="33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FFD966;" target="168">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1100" as="sourcePoint" />
+            <mxPoint x="420" y="1125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="192" edge="1" parent="1" source="157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.921;entryDx=0;entryDy=0;entryPerimeter=0;" target="144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="193" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;22,4 m&lt;sup&gt;3&lt;/sup&gt;/hari&amp;nbsp; &amp;nbsp;air Terbuang&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="140" x="445" y="1248" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
