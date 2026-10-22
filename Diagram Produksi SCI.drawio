@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8UcIaUD-RPe-MZam9Sus">
-    <mxGraphModel dx="1863" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1337" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,10 +74,15 @@
           <mxGeometry height="60" width="120" x="355" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="Kgc_B20OiArOTyfJrhNq-47" edge="1" parent="1" source="Kgc_B20OiArOTyfJrhNq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Kgc_B20OiArOTyfJrhNq-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="125" />
+              <mxPoint x="250" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Kgc_B20OiArOTyfJrhNq-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistentik&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="120" x="45" y="140" as="geometry" />
+        <mxCell id="Kgc_B20OiArOTyfJrhNq-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kulit Sintetis" vertex="1">
+          <mxGeometry height="30" width="120" x="45" y="110" as="geometry" />
         </mxCell>
         <mxCell id="Kgc_B20OiArOTyfJrhNq-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PROCESS" vertex="1">
           <mxGeometry height="60" width="310" x="260" y="30" as="geometry" />
@@ -88,8 +93,11 @@
         <mxCell id="Kgc_B20OiArOTyfJrhNq-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pengelolaan" vertex="1">
           <mxGeometry height="60" width="310" x="880" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="iXnK5LTUq-1wouMOHbhL-5" edge="1" parent="1" source="Kgc_B20OiArOTyfJrhNq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Kgc_B20OiArOTyfJrhNq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kgc_B20OiArOTyfJrhNq-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="- Sulfur" vertex="1">
-          <mxGeometry height="60" width="120" x="45" y="230" as="geometry" />
+          <mxGeometry height="30" width="120" x="45" y="245" as="geometry" />
         </mxCell>
         <mxCell id="Kgc_B20OiArOTyfJrhNq-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Preparing" vertex="1">
           <mxGeometry height="60" width="120" x="45" y="320" as="geometry" />
@@ -129,6 +137,16 @@
             <mxPoint x="-50" y="1120" as="sourcePoint" />
             <mxPoint x="-50" y="90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iXnK5LTUq-1wouMOHbhL-2" edge="1" parent="1" source="iXnK5LTUq-1wouMOHbhL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Kgc_B20OiArOTyfJrhNq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iXnK5LTUq-1wouMOHbhL-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Laminating&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="45" y="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
