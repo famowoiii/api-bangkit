@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="15K_R9oEgSRI3HWhUWzp">
-    <mxGraphModel dx="1229" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,7 +344,7 @@
             <mxPoint x="1335" y="2350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fOiZhBzF8oxwmXlCFG1O-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="z" vertex="1">
+        <mxCell id="fOiZhBzF8oxwmXlCFG1O-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Udara:&lt;div&gt;- N2: 2.700&lt;/div&gt;&lt;div&gt;- O: 820,4&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="120" x="1275" y="2220" as="geometry" />
         </mxCell>
         <mxCell id="fOiZhBzF8oxwmXlCFG1O-27" edge="1" parent="1" source="fOiZhBzF8oxwmXlCFG1O-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="fOiZhBzF8oxwmXlCFG1O-24">
@@ -364,10 +364,10 @@
         <mxCell id="fOiZhBzF8oxwmXlCFG1O-26" edge="1" parent="1" source="fOiZhBzF8oxwmXlCFG1O-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="fOiZhBzF8oxwmXlCFG1O-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fOiZhBzF8oxwmXlCFG1O-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;BAHAN BAKAR&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;C: 160,68 kg/jam&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;H: 33,61 kg/jam&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="fOiZhBzF8oxwmXlCFG1O-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;BAHAN BAKAR&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;C: 157 kg/jam&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;H: 32,9 kg/jam&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="120" x="1090" y="2360" as="geometry" />
         </mxCell>
-        <mxCell id="fOiZhBzF8oxwmXlCFG1O-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Gas Buang&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;CO&lt;sub&gt;2&lt;/sub&gt;: 589,1 kg/jam&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;N&lt;sub&gt;2&lt;/sub&gt;: 589,1 kg/jam&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;H&lt;sub&gt;2&lt;/sub&gt;O: 302,5 kg/jam&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;NO&lt;sub&gt;x&lt;/sub&gt;&lt;sup&gt;:&lt;/sup&gt;0,85 kg/jam&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="fOiZhBzF8oxwmXlCFG1O-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Gas Buang&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;CO&lt;sub&gt;2&lt;/sub&gt;: 577,1 kg/jam&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;N&lt;sub&gt;2&lt;/sub&gt;: 2.700 kg/jam&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;H&lt;sub&gt;2&lt;/sub&gt;O: 296 kg/jam&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;NO&lt;sub&gt;x&lt;/sub&gt;&lt;sup&gt;:&lt;/sup&gt;0,84 kg/jam&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="120" x="1275" y="2520" as="geometry" />
         </mxCell>
         <mxCell id="fOiZhBzF8oxwmXlCFG1O-41" parent="1" style="triangle;whiteSpace=wrap;html=1;shapeInside=1;rotation=90;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
