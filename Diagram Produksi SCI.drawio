@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram name="Upper Sepatu" id="8UcIaUD-RPe-MZam9Sus">
-    <mxGraphModel dx="3614" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,11 +266,17 @@
         <mxCell id="jNQ1ruFXfU03d0kKr-9H-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;Vacuum&lt;/i&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="980" y="745" as="geometry" />
         </mxCell>
+        <mxCell id="tTj8qXdeu86F8x1OPab9-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-50" y="1120" as="sourcePoint" />
+            <mxPoint x="1190" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Ir5kvrayuusdQdy67hv0" name="Bottom Sepatu">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -510,11 +516,17 @@
         <mxCell id="pTuUTIb8Ae6IIQl_W0qJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="Pewarna" vertex="1">
           <mxGeometry height="30" width="120" x="225" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="fvc7AwkDnB9XEhiyMfch-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="1440" as="sourcePoint" />
+            <mxPoint x="1370" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="8lWIQ-Ip9SfdiHfiBROl" name="Assambling">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1935" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -676,6 +688,12 @@
         </mxCell>
         <mxCell id="TBgcnE3F70nzJhF8aXVz-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="Cementing" vertex="1">
           <mxGeometry height="30" width="120" x="325" y="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="SWVnrWcbwwuzlitXRoHg-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="1510" as="sourcePoint" />
+            <mxPoint x="1470" y="1510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
